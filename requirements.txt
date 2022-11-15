@@ -6,7 +6,6 @@ opencv-python
 streamlit
 numpy
 requests
-pillow
 os
 tensorflow
 keras
