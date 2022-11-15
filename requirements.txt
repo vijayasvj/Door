@@ -9,5 +9,4 @@ requests
 pillow
 os
 tensorflow
-pillow
 keras
