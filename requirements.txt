@@ -1,4 +1,4 @@
-yaml
+pyyaml
 face-recognition
 streamlit_webrtc
 av
