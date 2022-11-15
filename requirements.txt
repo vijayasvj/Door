@@ -6,6 +6,5 @@ opencv-python
 streamlit
 numpy
 requests
-os
 tensorflow
 keras
