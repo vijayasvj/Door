@@ -1,0 +1,10 @@
+yaml
+face-recognition
+streamlit_webrtc
+av
+opencv-python
+streamlit
+numpy
+requests
+pillow
+os
